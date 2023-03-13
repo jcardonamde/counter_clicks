@@ -6,4 +6,3 @@
 
 Flask
 Gunicorn
-jinja2==3.1.2; python_version >= '3.7
